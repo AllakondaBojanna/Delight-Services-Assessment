@@ -13,7 +13,6 @@ const App: React.FC = () => {
           <div>
             <button onClick={toggleTheme}>Toggle Theme</button>
             <LoginPage />
-            
             <PincodeLookup />
           </div>
         )}
